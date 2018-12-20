@@ -1,14 +1,20 @@
 # TaishanJinja_Database-and-E-Commerce-Website
 
-TaishanJinja_Database-and-E-Commerce-Website
+Database design project with front-end E-Commerce-Website 
+
+Eclipse for j2ee project
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* Tomcat 6.0
+
+* Eclipse for j2ee
+
+* MySQL 
 
 ```
 Give examples
