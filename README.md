@@ -14,8 +14,6 @@ This contains the SQL scripts for adding test data into the tables.
 
 STEP5
 This contains the Web code.
-Copy the project directly to the eclipse workspace and import it using File->import
-
 
 ## Getting Started
 
